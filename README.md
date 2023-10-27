@@ -11,7 +11,18 @@
 <img width="774" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cb35b1fe-d6df-415d-b2c5-8dfa674e7007">
 
 ## S3 Policies
-1. Resource based Policies - 
-2. User Policies (IAM user - 
+1. Resource based Policies - (Bucket Policies)
+2. User Policies (IAM users)
 <img width="756" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/29235d51-f1ae-45d3-8b27-92ee3885f0fc">
 
+<img width="865" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/3a77dd16-c940-403b-bec7-3986dc0894fc">
+
+<img width="944" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9ed4d87f-91f7-4e40-bfb5-b2a4633262ae">
+
+
+http://lab-unique-name-123123123.s3-website-us-east-1.amazonaws.com/
+
+
+## Scenario 2. 
+> ### Webpage to display the wave size 👉🏻 more reliable(realtime/fast/live/more accurate) and 👉🏻 resilient(fault tolerance - hardware failures ie. storing data across multiple nodes)
+* This time EC2 (Elastic Compute) - Auto scaling feature for deploying 2 servers.
