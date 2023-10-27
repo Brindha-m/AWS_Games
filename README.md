@@ -14,6 +14,7 @@
 ## S3 Policies
 1. Resource based Policies - (Bucket Policies)
 2. User Policies (IAM users)
+3. Bucket policies are limited to 20 KB in size.
 <img width="756" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/29235d51-f1ae-45d3-8b27-92ee3885f0fc">
 
 <img width="900" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/3a77dd16-c940-403b-bec7-3986dc0894fc">
