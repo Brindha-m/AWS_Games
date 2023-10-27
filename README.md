@@ -44,7 +44,8 @@ http://lab-unique-name-123123123.s3-website-us-east-1.amazonaws.com/
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/926836aa-a8cb-4a49-a9b6-12f29a10d226">
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/77289bb3-866f-4480-a13b-924333b0c7ca">
 
-<img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/8461479f-1cba-49db-a7de-f17523bdb271">
+<img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e516865a-0c9e-4baa-a8a8-9201cfba28b4">
 
-<img width="758" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cf754dbe-0e73-4882-a2af-a0c184cd0ab9">
+
+<img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cf754dbe-0e73-4882-a2af-a0c184cd0ab9">
 
