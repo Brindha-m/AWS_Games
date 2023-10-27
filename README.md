@@ -46,4 +46,5 @@ http://lab-unique-name-123123123.s3-website-us-east-1.amazonaws.com/
 
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/8461479f-1cba-49db-a7de-f17523bdb271">
 
+<img width="758" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cf754dbe-0e73-4882-a2af-a0c184cd0ab9">
 
