@@ -12,3 +12,6 @@
 
 
 <img width="779" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/957bb86d-d399-4b12-b7fa-cbbd9e5395f2">
+
+- Solution
+- 
