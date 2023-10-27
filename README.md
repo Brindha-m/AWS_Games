@@ -7,6 +7,7 @@
 > ### Webpage to display the wave size 👉🏻 more reliable(realtime/fast/live/more accurate) and 👉🏻 resilient(fault tolerance - hardware failures ie. storing data across multiple nodes) 
 
 * For Static Website migrate to Amazon Simple Storage Service (Amazon S3) bucket.
+* Max size of buckets in S3 is 16oGB that can be added through aws console. But if larger size use aws CLI
 
 <img width="774" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cb35b1fe-d6df-415d-b2c5-8dfa674e7007">
 
