@@ -6,7 +6,7 @@
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/01baa791-2e45-4497-9774-2e10454e3426">
 
 
-<img width="400" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/daabdb4f-b0be-4712-a313-973a37496696">
+<img width="500" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/daabdb4f-b0be-4712-a313-973a37496696">
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/51419600-28f8-4b14-929c-363daff14d69">
 
