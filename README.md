@@ -19,6 +19,12 @@
 3. Bucket policies are limited to 20 KB in size.
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/29235d51-f1ae-45d3-8b27-92ee3885f0fc">
 
+<img width="700" alt="Screenshot_20231027_025038" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9f5e1eab-3323-4535-840d-dc18b8d90552">
+
+<img width="700" alt="Screenshot_20231027_041632" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/890a2960-b31b-4158-b838-ceaff92110c2">
+
+
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/3a77dd16-c940-403b-bec7-3986dc0894fc">
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9ed4d87f-91f7-4e40-bfb5-b2a4633262ae">
