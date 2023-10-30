@@ -49,13 +49,16 @@
 
 
 
+- After connecting Developer and Marketing Servers to Finance Server
 
+- ## Developer server routes
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ef01f2b2-84fc-4c05-b725-14cc8579e97c">
 
+- ## Marketing server routes
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/300cbde3-d6d3-441f-ae28-268fe83ca5f4">
 
-
-
-
-
+- ## Finance server routes
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e400cdab-e5d0-45bb-9681-8b764e3446e5">
 
 
 
