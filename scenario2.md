@@ -4,6 +4,7 @@
 
 * This time EC2 (Elastic Compute) - Auto scaling feature for deploying 2 servers.
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/b379d754-1649-4b42-90fa-b371e3b7aaab">
+
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/4514af04-b30d-4889-bb3f-98848bdcd58c">
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/07021890-06ff-4c39-83a5-8fe3902c79b5">
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/74f6bccb-6910-400b-9d09-1e85b2b452ef">
