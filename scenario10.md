@@ -3,9 +3,13 @@
 > Serverless, Fully elastic file storage
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9fd3d3ed-2a31-4bab-ba08-bf007cc85ed6">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e588a1fe-83aa-471b-ade7-a291633077c3">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/43ec6c63-9f07-43c4-a278-0e5507f9b40c">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/d4143662-26b5-437c-a54b-bf2d90f24a1d">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/fbbfba13-5d0e-436b-a40b-5a9852556265">
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/fd46e9a0-5ea7-49c7-bb66-874824cb55e8">
@@ -18,11 +22,16 @@
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/5b2f5139-4a1b-4634-96de-d349aed3a25e">
  
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/75869eae-9294-4dc7-8d51-dcff7f33efd4">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/143a2e01-e876-426b-a71a-0e9b73e1bfcc">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/03ae776b-4f64-4c08-9249-f291e9776b6a">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/73c4b3cf-3b8a-4ded-b60d-7b7653abdd64">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/0a38aa27-43c2-4b71-902f-4db4d324ebe3">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/13a9f930-2d7c-4aeb-8c26-efadafb5505b">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/811a27ce-e3be-48aa-b68e-c1ab2c0a83db">
 
 - ## For now remove these 2 AZ's
@@ -34,6 +43,7 @@
   
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ee5f121e-7a69-443f-ad9c-5d213898cc3b">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/90d10c1a-a952-42d2-81b6-8e82929b6271">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/c0f28a9b-37cb-45d0-b3e7-a132f9b25249">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/5796e962-ca55-4bf2-8df4-ba517529a0fc">
 
