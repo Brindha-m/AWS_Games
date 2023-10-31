@@ -22,6 +22,11 @@
 3. Bucket policies are limited to 20 KB in size.
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/29235d51-f1ae-45d3-8b27-92ee3885f0fc">
 
+- IAM Policies (Identity and Access Management)
+
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/2cbaacc4-5e0b-4b90-9c9f-05d46abc2cfb">
+
+
 <img width="700" alt="Screenshot_20231027_025038" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9f5e1eab-3323-4535-840d-dc18b8d90552">
 
 <img width="700" alt="Screenshot_20231027_041632" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/890a2960-b31b-4158-b838-ceaff92110c2">
