@@ -53,7 +53,7 @@
 <img width="596" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/97553094-5957-40ed-8ab9-0c9f38555570">
 
 
-- ## Terminal of Cat Server1
+- ## Terminal of Cat Server 1
   
   1. sudo -i
  
