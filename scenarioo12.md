@@ -44,4 +44,8 @@
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/69b5dc70-4037-4a7a-9856-6fdaf3752753">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/7dde0749-c3c6-416f-817f-db3c0e5f7bb5">
 
-<img width="896" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/57c82975-64e2-4d75-8e2f-d2250befc6b0">
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/57c82975-64e2-4d75-8e2f-d2250befc6b0">
+- ## If your want to autoscale your instances use Autoscaling Group and add the min, max, desired instances accordingly and also choose Avaliability Zone's.
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ab88eb32-9f76-4b6a-8777-ed50e521a2b3">
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1a8d4efe-7585-4d1e-b97a-6156f96158f3">
+
