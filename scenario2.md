@@ -1,8 +1,6 @@
 ## Scenario 2. 
 
-> ### Webpage to display the wave size 👉🏻 more reliable(realtime/fast/live/more accurate) and 👉🏻 resilient(fault tolerance - hardware failures ie. storing data across multiple nodes)
-
-* This time EC2 (Elastic Compute) - Auto scaling feature for deploying 2 servers.
+> ## This time EC2 (Elastic Compute) - Auto scaling feature for deploying 2 servers.
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/b379d754-1649-4b42-90fa-b371e3b7aaab">
 
 <img width="677" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/4514af04-b30d-4889-bb3f-98848bdcd58c">
