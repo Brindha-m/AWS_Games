@@ -29,7 +29,9 @@
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/374de18f-1db2-467a-9322-91c5888b4769">
 
+```
 arn:aws:iam::146424143786:group/SupportEngineers
             |____________|    |
                    |          |
             Root user id     User Group name
+```
