@@ -2,7 +2,7 @@
 
 > Cloud Quest - https://cloudquest.skillbuilder.aws/
 - ### Agent Brindha to continue..
-<img width="420" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e42e1a94-caf8-46e0-8f14-b03a3506bcb9">
+<img width="640" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e42e1a94-caf8-46e0-8f14-b03a3506bcb9">
 
 <img width="700" alt="Screenshot_20231027_020447" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1440deaa-473b-4648-946c-dc2802e7375a">
 
