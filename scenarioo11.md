@@ -15,6 +15,7 @@
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/56ab2523-cf45-4865-873b-960a52ac139d">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f3eb14c9-1d17-495e-bc55-4c59d01a50cd">
 - ## Create the template and click on autoscaling
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/b924b9b2-6f25-4492-9edc-5a268f9b94ef">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f434204e-b741-430d-80d9-2fba3c2b1467">
 
@@ -27,6 +28,7 @@
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/bb9e6a4d-c58d-4d8a-9f83-cb8b2d676098">
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/44bccec4-1133-40fc-8625-c497ee1ecea4">
+
 - ## Skip 2 nexts, then Create the autoscaling group
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ff0ef87c-d424-4cb3-9029-e6fd767af658">
