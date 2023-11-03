@@ -14,6 +14,7 @@
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/5e9e30ed-199b-4ce7-9dfe-84de9682dbde">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/56ab2523-cf45-4865-873b-960a52ac139d">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f3eb14c9-1d17-495e-bc55-4c59d01a50cd">
+
 - ## Create the template and click on autoscaling
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/b924b9b2-6f25-4492-9edc-5a268f9b94ef">
