@@ -1,6 +1,7 @@
 # Learn AWS through Games
 
 > Cloud Quest - https://cloudquest.skillbuilder.aws/
+> Road map - https://coggle.it/diagram/ZULSKicP9Medu2Xc/t/aws
 - ### Agent Brindha to continue..
 
 <img width="700" alt="Screenshot_20231027_020447" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1440deaa-473b-4648-946c-dc2802e7375a">
