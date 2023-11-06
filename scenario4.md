@@ -10,10 +10,15 @@
 <img width="500" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/daabdb4f-b0be-4712-a313-973a37496696">
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/51419600-28f8-4b14-929c-363daff14d69">
+<br>
+>> ## Check out - https://cidr.xyz/
 
 
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/957bb86d-d399-4b12-b7fa-cbbd9e5395f2">
+<br>
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cd101d20-b66a-4ed4-9a34-3e5342da1c0c">
 
-<img width="779" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/957bb86d-d399-4b12-b7fa-cbbd9e5395f2">
+<img width="700" alt="Screenshot_20231107_121856" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/0fc1220d-3ccd-462d-b4fc-07cb4d363af5">
 
 - Solution
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/930e3058-8930-4722-a8a4-6597b0ea82e7">
