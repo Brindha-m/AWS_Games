@@ -5,7 +5,7 @@
 > Road map - https://coggle.it/diagram/ZULSKicP9Medu2Xc/t/aws
 - ### Agent Brindha to continue..
 
-<img width="700" alt="Screenshot_20231027_020447" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1440deaa-473b-4648-946c-dc2802e7375a">
+<img width="700" height = "350" alt="Screenshot_20231027_020447" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1440deaa-473b-4648-946c-dc2802e7375a">
 
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/a94f663e-1fd4-41a7-aa68-622ca532d242">
