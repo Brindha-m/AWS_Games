@@ -12,10 +12,18 @@
 
 ## Scenario 1. 
 
-> ### Webpage to display the wave size 👉🏻 more reliable(realtime/fast/live/more accurate) and 👉🏻 resilient(fault tolerance - hardware failures ie. storing data across multiple nodes) 
+> ### Webpage to display the wave size
+> - ### 👉🏻 more reliable(realtime/fast/live/more accurate) and
+> - ### 👉🏻 resilient(fault tolerance - hardware failures ie. storing data across multiple nodes) 
+
 
 * For Static Website migrate to Amazon Simple Storage Service (Amazon S3) bucket.
 * Max size of buckets in S3 is 16oGB that can be added through aws console. But if larger size use aws CLI
+
+<br>
+
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/03ecaadf-45fb-44cf-a677-aec3582e2fb9">
+
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cb35b1fe-d6df-415d-b2c5-8dfa674e7007">
 
@@ -29,12 +37,13 @@
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/2cbaacc4-5e0b-4b90-9c9f-05d46abc2cfb">
 
-
 <img width="700" alt="Screenshot_20231027_025038" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9f5e1eab-3323-4535-840d-dc18b8d90552">
 
+- ### Let's Start, Search for S3 in AWS Console and Create a bucket in S3
+
+<img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1860e7a2-3a65-4403-85f1-efb4c54989cb">
+
 <img width="700" alt="Screenshot_20231027_041632" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/890a2960-b31b-4158-b838-ceaff92110c2">
-
-
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/3a77dd16-c940-403b-bec7-3986dc0894fc">
 
