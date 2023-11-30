@@ -4,7 +4,7 @@
 
 > Road map - [https://coggle.it/diagram/ZULSKicP9Medu2Xc/t/aws](https://coggle.it/diagram/ZULSKicP9Medu2Xc/t/aws)
 
-## Agent Brindha to continue...
+## Agent Brindha 🕵🏻‍♀️ to continue...
 
 ![Agent Brindha](https://github.com/Brindha-m/AWS_Games/assets/72887609/1440deaa-473b-4648-946c-dc2802e7375a)
 
@@ -36,7 +36,7 @@
 
 ![S3 Policies](https://github.com/Brindha-m/AWS_Games/assets/72887609/29235d51-f1ae-45d3-8b27-92ee3885f0fc)
 
-- IAM Policies (Identity and Access Management)
+- ### IAM Policies (Identity and Access Management)
 
 ![IAM Policies](https://github.com/Brindha-m/AWS_Games/assets/72887609/2cbaacc4-5e0b-4b90-9c9f-05d46abc2cfb)
 
@@ -44,7 +44,7 @@
 
 ### Let's get our Hands-on🧑🏻‍💻
 
-- Search for S3 in AWS Console and Create a bucket in S3
+- #### Search for S3 in AWS Console and Create a bucket in S3
 
 ![Create S3 Bucket](https://github.com/Brindha-m/AWS_Games/assets/72887609/1860e7a2-3a65-4403-85f1-efb4c54989cb)
 
@@ -55,23 +55,23 @@
 ![Bucket Settings 3](https://github.com/Brindha-m/AWS_Games/assets/72887609/10085ec8-752e-4f74-9fc7-beae0bf16909)
 ![Bucket Settings 4](https://github.com/Brindha-m/AWS_Games/assets/72887609/bbd3ec36-10ee-4b43-b0a2-dcd31352e18b)
 
-- The contents to be uploaded in our S3 bucket can be found in the `Cloud partitioner -> Static Website utils` folder of this repo.
+- ### The contents to be uploaded in our S3 bucket can be found in the `Cloud partitioner -> Static Website utils` folder of this repo.
 
 ![Bucket Contents](https://github.com/Brindha-m/AWS_Games/assets/72887609/5abc449b-ab91-42db-abb8-67db1fb661c1)
 
-- Click on edit bucket policy and paste the content that is in the `policy.json` file which can be found in your bucket and click save change at the bottom.
+- ### Click on edit bucket policy and paste the content that is in the `policy.json` file which can be found in your bucket and click save change at the bottom.
 
 ![Edit Bucket Policy](https://github.com/Brindha-m/AWS_Games/assets/72887609/5d6ff8fc-5c9f-420f-b6df-b9d99b56990c)
 ![Bucket Policy](https://github.com/Brindha-m/AWS_Games/assets/72887609/010589eb-ba7a-44f5-b814-3da2f1c9be3a)
 
-- Now navigate to the properties tab, scroll down and click on Edit in Static webpage hosting
+- ### Now navigate to the properties tab, scroll down and click on Edit in Static webpage hosting
 
 ![Static Website Hosting](https://github.com/Brindha-m/AWS_Games/assets/72887609/bd7763ba-629c-4797-86d0-523ea348f774)
 ![Static Website Hosting 2](https://github.com/Brindha-m/AWS_Games/assets/72887609/c766920f-7f7a-4a0e-849f-2f130daf31c5)
 ![Static Website Hosting 3](https://github.com/Brindha-m/AWS_Games/assets/72887609/4e72a290-72da-4c96-8e6c-8d39bc63cd84)
 ![Static Website Hosting 4](https://github.com/Brindha-m/AWS_Games/assets/72887609/c8b072a1-8e29-419f-bc06-159efd34c82d)
 
-- Under Bucket website endpoint, click the copy icon to copy your bucket website endpoint.
+- ### Under Bucket website endpoint, click the copy icon to copy your bucket website endpoint.
 
 > [http://staticwebsite-s3.s3-website-us-east-1.amazonaws.com](http://staticwebsite-s3.s3-website-us-east-1.amazonaws.com)
 
