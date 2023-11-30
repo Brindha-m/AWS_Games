@@ -24,7 +24,7 @@
 * 🌐 For a Static Website, migrate to Amazon Simple Storage Service (Amazon S3) bucket.
 * 🛡️ As an AWS user you can have upto **100** Buckets.
 * 📦 Maximum Size of the buckets is **5TB**.
-* 🚀 Max size of buckets in S3 is 16GB that can be added through AWS console. But if larger size, use AWS CLI(Command Line Interface).
+* 🚀 Max size of buckets in S3 is 16GB that can be added through **AWS console**. But if larger size, use **AWS CLI**(Command Line Interface).
 
 ![Wave Size Image 1](https://github.com/Brindha-m/AWS_Games/assets/72887609/03ecaadf-45fb-44cf-a677-aec3582e2fb9)
 ![Wave Size Image 2](https://github.com/Brindha-m/AWS_Games/assets/72887609/cb35b1fe-d6df-415d-b2c5-8dfa674e7007)
@@ -56,7 +56,7 @@
 ![Bucket Settings 3](https://github.com/Brindha-m/AWS_Games/assets/72887609/10085ec8-752e-4f74-9fc7-beae0bf16909)
 ![Bucket Settings 4](https://github.com/Brindha-m/AWS_Games/assets/72887609/bbd3ec36-10ee-4b43-b0a2-dcd31352e18b)
 
-- ### The contents to be uploaded in our S3 bucket can be found in the `Cloud partitioner -> Static Website utils` folder of this repo.
+- ### The contents to be uploaded in our S3 bucket can be found at 👉🏻 [Cloud Essentials - scenario 1](https://github.com/Brindha-m/AWS_Games/tree/main/Cloud%20Practitioner/Static%20Website%20Utils)
 
 ![Bucket Contents](https://github.com/Brindha-m/AWS_Games/assets/72887609/5abc449b-ab91-42db-abb8-67db1fb661c1)
 
