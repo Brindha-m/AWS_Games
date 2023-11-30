@@ -31,7 +31,7 @@
 
 - #### Name the layer as `textract-trp-layer` (trp is Third Party).
 - ####  This zip contains the Textract libraries (what we get when we do pip install textract).
-- ####  Zip File can be found 👉🏻 [Scenario3 - textract utils](https://github.com/Brindha-m/AWS_Games/tree/main/Machine%20Learning%20AWS/Python%20Snippets%20For%20the%20ML%20Scenarios/Scenario%203%20-%20Textract)
+- ####  Zip File can be found 👉🏻 [Scenario3 - textract utils](https://github.com/Brindha-m/AWS_Games/tree/dd51fe20f122943f1c5e9e9d270a90b3922e33a7/Machine%20Learning%20AWS/Utils/Scenario%203%20-%20Textract)
 
 
 ![Image 11](https://github.com/Brindha-m/AWS_Games/assets/72887609/dcdfdd9b-5f14-40bd-a04d-c56ed8d96ecb)
