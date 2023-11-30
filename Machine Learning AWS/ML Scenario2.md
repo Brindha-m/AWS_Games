@@ -31,7 +31,7 @@ Explore the capabilities of Amazon Rekognition for image and video analysis.
 ![Image 12](https://github.com/Brindha-m/AWS_Games/assets/72887609/081caff5-bca7-44b3-b055-136ba5023a3e)
 ![Image 13](https://github.com/Brindha-m/AWS_Games/assets/72887609/8491bdba-b5d5-4a53-a07b-29cf4a654fcf)
 
-- #### 2. Now, create a `Lambda Function` for further processing. Code can be found 👉🏻 [Scenario 2 Util](https://github.com/Brindha-m/AWS_Games/blob/main/Machine%20Learning%20AWS/Python%20Snippets%20For%20the%20ML%20Scenarios/image_video_analysis.py)
+- #### 2. Now, create a `Lambda Function` for further processing. Code can be found 👉🏻 [Scenario 2 Util](https://github.com/Brindha-m/AWS_Games/blob/main/Machine%20Learning%20AWS/Utils/image_video_analysis.py)
 
 ![Image 14](https://github.com/Brindha-m/AWS_Games/assets/72887609/cd1aa4bb-4ee0-4a0d-b265-d8a22fba58cf)
 ![Image 15](https://github.com/Brindha-m/AWS_Games/assets/72887609/0e421cd5-5024-4fcb-b9b3-a88b3a84756d)
