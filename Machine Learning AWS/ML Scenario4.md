@@ -1,4 +1,4 @@
-## Scenario 3 - Set up ML Environment with Amazon SageMaker
+## Scenario 4 - Set up ML Environment with Amazon SageMaker
 
 > ## Amazon SageMaker
 
