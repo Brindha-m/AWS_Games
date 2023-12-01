@@ -1,6 +1,6 @@
 ## ML Scenario 5
 > ## Introduction to Generative Models
-> ## Generative - LLM (Large Data Model)
+> ### Generative - LLM (Large Language Model)
 
 ![Image 1](https://github.com/Brindha-m/AWS_Games/assets/72887609/d48ccb17-bb03-4552-9fd6-8abffba78450)
 ![Image 2](https://github.com/Brindha-m/AWS_Games/assets/72887609/fc55d1e3-3a2a-4c7b-8968-fbebdae9065f)
