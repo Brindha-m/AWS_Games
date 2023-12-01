@@ -44,7 +44,7 @@
 
 ![Image 15]("https://github.com/Brindha-m/AWS_Games/assets/72887609/44fd49ee-c250-48ec-afda-91686643e368)
 
-- Pov -> Your s3 Bucket Contents can be found 👉🏻[Scenario 5 - Generative AI]()
+- Pov -> Your s3 Bucket Contents can be found 👉🏻[Scenario 5 - Generative AI](https://github.com/Brindha-m/AWS_Games/tree/main/Machine%20Learning%20AWS/Utils/Scenario%205%20-%20Generative%20AI%20Model)
 
 ![Image 16](https://github.com/Brindha-m/AWS_Games/assets/72887609/3b8deadc-6ba2-4f32-bb40-b34d12838c72)
 
