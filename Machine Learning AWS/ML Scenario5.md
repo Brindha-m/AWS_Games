@@ -14,11 +14,11 @@
 
 - ## Services to be used here..
   
-| AWS Service         | Purpose                                      |
-|---------------------|----------------------------------------------|
-| Amazon SageMaker    | Build, Train, and Deploy Machine Learning Models |
-| Amazon S3           | Scalable Storage in the Cloud                |
-| Amazon Lambda       | Run code without thinking about servers     |
-| Amazon CloudFront   | Global Content Delivery Network              |
-| Amazon API Gateway  | Build, Deploy and Manage APIs                |
+| AWS Service             | Purpose                                      |
+|-------------------------|----------------------------------------------|
+| **Amazon SageMaker**    | Build, Train, and Deploy Machine Learning Models |
+| **Amazon S3**           | Scalable Storage in the Cloud                |
+| **Amazon Lambda**    | Run code without thinking about servers     |
+|**Amazon CloudFront**   | Global Content Delivery Network              |
+|**Amazon API Gateway** | Build, Deploy and Manage APIs                |
   
