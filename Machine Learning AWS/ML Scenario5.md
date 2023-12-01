@@ -84,11 +84,12 @@
 ![cells](https://github.com/Brindha-m/AWS_Games/assets/72887609/2ebf3688-0876-4770-8ad4-d7c7dfb33da4)
 
 - #### File -> Logout and In Amazon SageMaker Studio, copy the endpoint
+  
 ![SageMaker](https://github.com/Brindha-m/AWS_Games/assets/72887609/0259e42e-36b1-4c11-85a1-387c1843b6c1)
 
 ![SageMaker](https://github.com/Brindha-m/AWS_Games/assets/72887609/70f8b471-0c6a-4fbb-b706-79a92c89bfee)
 
-- ###  `Endpoint ---> hf-llm-falcon-7b-instruct-bf16-2023-12-01-14-57-53-790 `
+- ###  Endpoint ---> ` hf-llm-falcon-7b-instruct-bf16-2023-12-01-14-57-53-790 `
 
 ![awsml](https://github.com/Brindha-m/AWS_Games/assets/72887609/2459743d-b3b4-44b8-9b3a-4e6c9f757ba9)
 
@@ -109,13 +110,16 @@
 
 ![awsml](https://github.com/Brindha-m/AWS_Games/assets/72887609/5f6888e4-769e-4340-89f2-4f3f3c4b1333)
 
-![awsml]("https://github.com/Brindha-m/AWS_Games/assets/72887609/6c58413a-1eb6-4de0-8d95-22e68f75b46a)
+![awsml](https://github.com/Brindha-m/AWS_Games/assets/72887609/ea719393-46e1-4cb6-96e2-bc47d7fe9b7c)
+
+![awsml](https://github.com/Brindha-m/AWS_Games/assets/72887609/6c58413a-1eb6-4de0-8d95-22e68f75b46a)
 
 ![awsml](https://github.com/Brindha-m/AWS_Games/assets/72887609/fe7d2d95-40de-4504-8a29-84e9c66175ea)
 
 ![awsml](https://github.com/Brindha-m/AWS_Games/assets/72887609/c0aae734-cfbc-4a70-9e44-9b2463a9f734)
 
 - ### ` https://dymy4w7ib93uj.cloudfront.net/ `
+  
 - #### This application requires an API Gateway URL
 
 ![awsml](https://github.com/Brindha-m/AWS_Games/assets/72887609/235c7e13-71fe-43f3-9b24-86f1986db64c)
