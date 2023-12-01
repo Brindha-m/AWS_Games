@@ -1,5 +1,6 @@
 ## ML Scenario 6
 > ## Fine-Tuning LLM ON Amazon SageMaker
+* Note -  **LLM** is Large Language Model
 
 ![image](https://github.com/Brindha-m/AWS_Games/assets/72887609/5b75cc84-3c09-4408-af80-366db8ff443c)
 ![image](https://github.com/Brindha-m/AWS_Games/assets/72887609/937299bb-1dc6-468e-8a4b-ec1e98b45365)
