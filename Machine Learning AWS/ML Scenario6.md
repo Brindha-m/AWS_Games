@@ -13,7 +13,7 @@
 ![image](https://github.com/Brindha-m/AWS_Games/assets/72887609/86d0a832-802c-4b6a-9902-a0813c9ca2e3)
 
 
-### Create the 2 buckets, One with the .html file and other with .zip file. Files can be found here 👉🏻[Scenario 6 Util]()
+### Create the 2 buckets, One with the .html file and other with .zip file. Files can be found here 👉🏻[Scenario 6 Util](https://github.com/Brindha-m/AWS_Games/tree/main/Machine%20Learning%20AWS/Utils/Scenario%206%20-%20Fine%20tuning%20LLM)
 
 ![image](https://github.com/Brindha-m/AWS_Games/assets/72887609/2dc90dcf-c143-4ea9-a5e0-9059fddedb2f)
 
