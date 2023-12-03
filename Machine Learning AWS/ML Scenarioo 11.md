@@ -3,7 +3,9 @@
 ## > Anamoly Detection - Unsupervised Learning > Amazon SageMaker
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/0a9a8122-6197-42c4-aab2-3c726d779838">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/4ee6f268-a819-4b42-9656-4128ff91568b">
+
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/61b721bb-aed2-41e5-8768-d72f6d4005a8">
+
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/5b75a956-c354-4d7e-a4a4-32fb2f24b3d8">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f8ce729d-c0b5-4673-8d24-9217a1c123f3">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/6a155002-816e-4620-8fcc-c9429c7b6b40">
