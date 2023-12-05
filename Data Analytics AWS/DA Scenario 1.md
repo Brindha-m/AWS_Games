@@ -29,7 +29,7 @@
 
 <img alt="Screenshot_20231205_090857" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/82ec4a72-2d82-40cd-abc9-8b61121b1eca">
 
-- ## Create an empty S3 bucket. And Lambda funtion can be found here [DA Scenario 1 - Data Ingestion](https://github.com/Brindha-m/AWS_Games/tree/main/Data%20Analytics%20AWS/Utils/DA%20Scenario%201%20-%20Data%20Ingestion%20Methods)
+- ## Create an empty S3 bucket. And Lambda function can be found here [DA Scenario 1 - Data Ingestion](https://github.com/Brindha-m/AWS_Games/tree/main/Data%20Analytics%20AWS/Utils/DA%20Scenario%201%20-%20Data%20Ingestion%20Methods)
 
 <img alt="Screenshot_20231205_090934" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/336a7229-679e-40f8-8d9f-30a8167fd121">
 
