@@ -16,9 +16,9 @@
 
 <br>
 
-## Type the following xommands..
-  1. ping <ip address>
-  2. ping some domain name
+## Type the following commands..
+  ## 1. `ping <ip address>`
+  ## 2. `ping <some domain name>`
 
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/619c88fb-ac66-4824-9383-80585607fe7f">
 
@@ -29,7 +29,7 @@
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/8762c723-d114-4482-a850-56de8a2137f3">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/d9bbf665-b4f7-4f1d-89e5-dc842e84223d">
 
-## Here, NS - Name Server, SOR - Start Of Authority record
+## Here, NS - Name Server, SOA - Start Of Authority record
 ## *note: You have create VPC if not using this lab.
 
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/4ee5a0ec-4e0d-4884-9bb1-864be6203f30">
