@@ -29,7 +29,13 @@
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/7978e6bf-b308-4d10-b039-3cefbc1fd760">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/081029ae-7464-465b-8b14-e21b4bd8dfd5">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f49ddf85-c065-4282-b2e5-7caa124d772b">
+
+- ## Cloud front with S3 bucket as origin.
+  
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/c7320a50-145c-4944-9602-39c09ac667be">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/6646c48d-2114-4045-b054-d9b52d014757">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/0445d20b-9a3b-4a7e-adc4-844ab242ee87">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/34df8386-513a-4cd9-ac7a-0f235cad0a80">
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/c7cd3cb3-51ad-49e3-afa8-198954fe6c60">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ddff35df-0a2b-4f2f-adce-e2f60ed48a40">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/75f0cab0-57da-4151-bdf7-77947674b6f3">
+
+<img width="479" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ca682972-4caa-4b85-bb0a-47a48034e14c">
