@@ -1,4 +1,4 @@
-## SA Scenario 5
+## SA Scenario 4
 > ## Rest API with Database
 
 * DynamoDB - Nosql database
