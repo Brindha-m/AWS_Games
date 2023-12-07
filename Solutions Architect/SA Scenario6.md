@@ -25,16 +25,16 @@
 ## Navigate back to s3, wait for 5 minutes.
 
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e7a02991-122f-4b7c-9c75-b957ad0c7bbd">
-<img width="919" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/7defeb4d-1df2-425f-b012-5ff32c769590">
-<img width="750" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/96b5d71f-b0d7-47fb-a253-3c1b308f1b7a">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/7defeb4d-1df2-425f-b012-5ff32c769590">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/96b5d71f-b0d7-47fb-a253-3c1b308f1b7a">
 
 ## In this example, the public IP address is `67.220.242.47`
-<img width="510" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/c84c067e-e825-4a28-9fbe-523a2e2ec44e">
-<img width="811" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/d751920e-7fa7-4e3c-9cb6-e093327649f3">
-<img width="919" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/a80ce236-1add-46d6-8322-53cadb94be4e">
-<img width="916" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/4df09287-dcfa-4f1d-9bb4-a81496fe6297">
-<img width="798" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/0737f1cd-02a6-4b40-8160-603344f5cf2b">
-<img width="808" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/a4bb5c5d-e0d3-448e-bad5-2a23a76cfa36">
-<img width="508" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9a86f3b9-b1bc-4939-9b0c-2f5fa0471c47">
-<img width="468" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9e9f777a-2884-42c2-9abc-b77513d5ab75">
-<img width="798" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e173bfe7-b8a6-4857-9805-6fccc40f4959">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/c84c067e-e825-4a28-9fbe-523a2e2ec44e">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/d751920e-7fa7-4e3c-9cb6-e093327649f3">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/a80ce236-1add-46d6-8322-53cadb94be4e">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/4df09287-dcfa-4f1d-9bb4-a81496fe6297">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/0737f1cd-02a6-4b40-8160-603344f5cf2b">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/a4bb5c5d-e0d3-448e-bad5-2a23a76cfa36">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9a86f3b9-b1bc-4939-9b0c-2f5fa0471c47">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9e9f777a-2884-42c2-9abc-b77513d5ab75">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e173bfe7-b8a6-4857-9805-6fccc40f4959">
