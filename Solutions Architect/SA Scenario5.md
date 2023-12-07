@@ -1,6 +1,8 @@
 ## SA Scenario 5
 > ## Single Page App
 
+* With API Gateway, Lambda Function, S3 and Cloud watch.
+  
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/2629150f-a396-4b3d-86b3-d787580b3942">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f5c8a3ce-cb07-41ef-8a0f-b717ff7976ea">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/76c6d1c8-9120-42e8-a447-134236129fb7">
@@ -32,40 +34,56 @@
 
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/fe1c332c-2d0a-492e-82d3-c470b068e233">
 
-
-## Lambda Trigger to API Gateway
-
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9909b561-e103-4371-8ead-8b882ae37c4c">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/64d52ad0-0430-44a0-9dc9-dce4adbf0cdb">
-
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/6150a2b8-acb3-4c59-a073-70dcce805568">
-
 ## In API Gateway create an API
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/fa4ac1bc-e1fc-4708-8f24-840acb502ebb">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cbcdec9b-d2ad-410d-a0c0-c3fe3270a963">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9b6ca2b7-5267-4cbe-b99e-7fe4c75c2580">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/76be668b-52e9-4f2a-9c54-6d93770d2e30">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cd5d7085-cb40-4861-9cdb-fd6810339846">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/044cbd7a-5665-44e8-b0d8-b525c7dedca9">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/a5f6d19d-758b-4703-8c9a-53788852273a">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f538310a-1fd7-4a48-b020-019c7b1dd2dc">
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/2e851cda-f159-4f7e-81a5-0dfb363ac4ce">
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/a8203454-f1f1-47fd-b7e2-75168129c86f">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1b46469e-6eda-4e67-8139-c4ca65075419">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/9a513284-b597-4fa9-9c9d-635b0f30bf7e">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/fcfa10ae-55dc-4bd1-9d8b-05b88e13ae67">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/49e43e67-49be-42a1-b0e5-257616d82604">
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/65ce397c-68a0-49b3-a852-a734d1ba7132">
+## Lambda function will be Trigger to API Gateway ..
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f7591a3c-00b6-460a-a13b-e3b5d149ee2e">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ccc97c11-491d-4dcc-b3c7-75e9b25d679e">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/dec30e49-1de5-4549-b9c0-a542ab106fed">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ecca6145-e768-49f0-a926-6e2b6dfb835f">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/2d211699-3ef9-463f-9473-d7f628f7e477">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e7a5e122-66af-41cc-b6ad-1d313e555c6f">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/6dcabc44-4e71-428f-89f4-d692d4f4bc7d">
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/6914b08b-c640-4294-9454-dee89ef02551">
+<br>
+
+## Now move on back to API Gateway and Click on DEPLOY API
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/dc75ef71-91a9-482c-aa7c-b1117025e6b8">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/378e03de-825e-426f-a120-272828c12940">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/bfeca3f6-283a-4c83-a6da-b2d2a716b2d6">
+
+## Final Outputs
+
+<br>
+
+<img src = "https://github.com/Brindha-m/AWS_Games/assets/72887609/b688ebd4-ad05-4feb-90a1-2db04273a909">
+<img src ="https://github.com/Brindha-m/AWS_Games/assets/72887609/20832810-b0e0-48b0-a040-b944ecbdd9cd">
+<img src ="https://github.com/Brindha-m/AWS_Games/assets/72887609/7b9deb65-3032-4534-ad88-f1f4b9ae3511">
 
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/c43c4870-8698-4a02-b6c9-42bc006ee0d4">
+## Use Cloud Watch to see the LOGS..
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/de2c1318-e2a6-41fd-b504-908409a7f21e">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cc11a4a2-9383-4390-86b2-51a7c83a54eb">
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ca26960d-edf7-4696-b710-ec0f4b43e7ce">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/75624a20-e31f-463f-9cd7-8494fd1e5534">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/d0f0a479-d6c4-4d9e-b439-303d226a22e3">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/bdf70452-aed4-4ffa-9014-70f93b6206e7">
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f6f60245-a473-431b-961e-10cbdef5f54f">
 
-<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/09470d45-2390-41d2-a076-67a253c64b34">
+## The issue is when detail button is clicked.. As it doesnt have proper permission to run successfully.
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/d9d583f4-1042-4b2f-9d05-2a7960af8757">
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f878503e-3b15-44ea-9ce8-ab30a89d2449">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/edd86160-ce8f-4109-b7da-7260d2c11106">
+<img src="https://github.com/Brindha-m/AWS_Games/assets/72887609/8c31c59d-eb49-4e05-aa99-adf4a821b07c">
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/cc03a4a8-a795-4bfd-8aa0-e9971f53083b">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/6c426d21-bb42-45b8-9fb8-919646374c88">
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/197ffc94-3898-4929-9cb4-7d37d2e53cde">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1e91a05f-2058-4504-874a-635e6ae26dda">
