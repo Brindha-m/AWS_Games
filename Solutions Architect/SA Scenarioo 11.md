@@ -27,4 +27,25 @@
 ### [Read More](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ec2-instance.html) about properties in cloudformation.
 
 ![image](https://github.com/Brindha-m/AWS_Games/assets/72887609/fe4e2c9b-8952-4cd5-9dbb-b127fad5b2f1)
-<img width="958" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/bf72de7b-a239-4789-9e6c-faba5557001c">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/bf72de7b-a239-4789-9e6c-faba5557001c">
+
+![image](https://github.com/Brindha-m/AWS_Games/assets/72887609/af53ded8-e568-4f39-97c9-53c747cfb174)
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/75439707-8efb-4950-913f-e6c56661fe95">
+
+## On the toolbar, click the tick icon
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/343950a6-206c-4ca2-806d-7fa1f4be5aac">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/2952de18-3f09-4470-a8c8-3b5783c85e7b">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/af5d9c1f-80b0-42d7-a876-08242862388f">
+
+## On the toolbar, click the upload icon
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e9311b5c-7d50-4180-b42a-41851b8d81a2">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e1b51799-041d-4fb9-8601-c455f4620b8b">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/65f3d8c9-70c9-4cce-b433-3cb19cc9b26f">
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/19b3c647-411b-4ef2-97aa-9193aa8bd0e5">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/07d4078b-7511-4936-bbf7-efb5738362eb">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/c4c5c7bf-c86a-4f8c-ae09-2edf7ad037b9">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/61e6eafe-7e88-41a2-ba5d-705579916a2f">
