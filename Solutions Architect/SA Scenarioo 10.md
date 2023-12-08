@@ -1,8 +1,8 @@
 ## SA Scenario 10
 > ## Container Services
 
-* ### Amazon ECR (Elastic Container Service) and ECR (Elastic Container Registry)
-* ### Cloud9 - IDE
+* ### Amazon ECS (Elastic Container Service) and ECR (Elastic Container Registry)
+* ### Cloud 9 - IDE [Cloud IDE]
   
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/02df9f38-92b1-40d2-86f2-8d9cb585cac8">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/3f49876f-0812-429f-9b33-6a6152d3e719">
@@ -24,6 +24,8 @@
 
 
 ### Setup and Configuration
+
+#### The file can found here -> [Scenario 10 Container utils](https://github.com/Brindha-m/AWS_Games/tree/main/Solutions%20Architect/Utils/Scenarioo%2010%20-%20Container%20Service)
 
 #### 1. Unzip the lab_code.zip:
     
@@ -150,3 +152,11 @@
 <img src = "https://github.com/Brindha-m/AWS_Games/assets/72887609/976907cd-c1ab-405b-9cec-8b9dcf6cd998">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/e89ded58-3202-4b63-8fc1-64fb3db36fc7">
 <img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/d72735dd-ff63-4594-b1a5-0461a334ab21">
+
+<br>
+
+## For Second App
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/ac261b3c-0295-4e1c-a0d4-e6e41ea964c2">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/4de9fa08-7655-42f5-9483-ecd32c1caac4">
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/666142c5-945f-49b5-9288-b3c25239fa68">
