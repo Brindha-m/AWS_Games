@@ -6,10 +6,6 @@
 
 ## Agent Brindha 🕵🏻‍♀️ to continue...
 
-![Agent Brindha](https://github.com/Brindha-m/AWS_Games/assets/72887609/1440deaa-473b-4648-946c-dc2802e7375a)
-
-![Wave Size](https://github.com/Brindha-m/AWS_Games/assets/72887609/a94f663e-1fd4-41a7-aa68-622ca532d242)
-
 ## Scenario 1. Cloud Essentials
 
 ### Webpage to display the wave size
@@ -18,6 +14,9 @@
 
 <br> 
 
+![Wave Size](https://github.com/Brindha-m/AWS_Games/assets/72887609/a94f663e-1fd4-41a7-aa68-622ca532d242)
+
+<br>
 
 ## 🚀 Let's Start Our Cloud Journey
 
