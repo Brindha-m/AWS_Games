@@ -3,7 +3,6 @@
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/2d12e850-eb86-4340-8389-c62de7a403c4">
 
-
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/01baa791-2e45-4497-9774-2e10454e3426">
 
 
