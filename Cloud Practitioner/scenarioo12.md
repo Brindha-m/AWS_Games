@@ -1,6 +1,8 @@
 ## Scenario 12
 > High Avaliability Web Applications
 
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/488940b4-2418-4be4-9e73-ded1d22f05a6">
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/51af3e67-9614-49bc-afbc-4b473bddfa9b">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/6669fba3-e898-4e7b-bb49-53d37c074471">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f1ed1ff4-eaf2-4fd7-885e-6bea3bc27293">
@@ -51,3 +53,7 @@
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/1a8d4efe-7585-4d1e-b97a-6156f96158f3">
 
 <img width="580" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f24dccf9-f37d-4c44-b3b9-d3d34be4b3aa">
+
+## Check out Easier Understanding -> https://coggle.it/diagram/ZULSKicP9Medu2Xc/t/aws
+
+<img alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/b96becf4-29a2-4b2f-bfb6-a056e7503214">
