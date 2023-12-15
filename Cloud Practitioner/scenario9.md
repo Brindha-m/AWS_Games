@@ -1,5 +1,6 @@
 # Scenario 9
 > Core Security Concepts - IAM (Identity and Access Management)
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/c18b46af-f3de-48d8-9fd1-5abe3b60f941">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/5b82ddd2-552a-4775-b0d6-9effa8310773">
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/97b6df9e-a49d-4902-a99d-c46fc56947ed">
