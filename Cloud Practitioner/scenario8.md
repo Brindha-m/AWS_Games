@@ -2,6 +2,7 @@
 > Nosql Database - Dynamo DB
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/f98b8542-22e3-449e-af39-88f6fa7be1d6">
 
+
 > Relational Database Sql -> POSTGRES, MARIA DB, MYSQL
 
 > NoSql
