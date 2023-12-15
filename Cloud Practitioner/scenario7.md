@@ -1,6 +1,7 @@
 # Scenario7
 > Amazon RDS - Relational Databases in practice
 - RDS Benefits
+
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/bea1ac03-15aa-41ff-9cd7-e3d37e7c2f90">
 
 <img width="700" alt="image" src="https://github.com/Brindha-m/AWS_Games/assets/72887609/957349b8-3410-4136-b7f9-810364fa8cac">
